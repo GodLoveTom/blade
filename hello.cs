@@ -7,5 +7,5 @@ int main()
 
 public void cc(int x, int y, int z)
 {
-   int ggg = x + y;
+   int ggg = x + y + z;
 }
